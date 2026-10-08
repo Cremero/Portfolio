@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Lucas Martín Puig</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #1f2937;
+            color: white;
+            text-align: center;
+            padding: 40px;
+        }
+
+        section {
+            max-width: 900px;
+            margin: 20px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #1f2937;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #1f2937;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Lucas Martín Puig</h1>
+    <p>Estudiante de Administración de Sistemas Informáticos en Red (ASIR)</p>
+</header>
+
+<section>
+    <h2>Perfil Profesional</h2>
+    <p>
+        Estudiante de ASIR con conocimientos en administración de sistemas Linux,
+        redes, servidores web, bases de datos y virtualización.
+        Interesado en la ciberseguridad, la administración de infraestructuras
+        y los servicios de red.
+    </p>
+</section>
+
+<section>
+    <h2>Formación Académica</h2>
+    <ul>
+        <li>CFGS Administración de Sistemas Informáticos en Red (ASIR)</li>
+        <li>Educación Secundaria Obligatoria (ESO)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Conocimientos Técnicos</h2>
+    <ul>
+        <li>Linux (Debian, Ubuntu)</li>
+        <li>Apache2</li>
+        <li>BIND9 (DNS)</li>
+        <li>MariaDB / MySQL</li>
+        <li>VirtualBox y Vagrant</li>
+        <li>HTML y CSS</li>
+        <li>Git y GitHub</li>
+        <li>GPG y criptografía básica</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Proyectos Realizados</h2>
+    <ul>
+        <li>Implementación de un servidor DNS con BIND9.</li>
+        <li>Despliegue de un entorno LAMP en Debian.</li>
+        <li>Configuración de servidores web Apache.</li>
+        <li>Administración de máquinas virtuales con Vagrant y VirtualBox.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contacto</h2>
+    <p><strong>Email:</strong> lucas@example.com</p>
+    <p><strong>Teléfono:</strong> 600 000 000</p>
+    <p><strong>GitHub:</strong> github.com/lucasmartinpuig</p>
+</section>
+
+<footer>
+    <p>© 2026 Lucas Martín Puig</p>
+</footer>
+
+</body>
+</html>
